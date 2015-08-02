@@ -1,0 +1,47 @@
+﻿Merge branch 'Vaibhav' of bitbucket.org:audegn/shoppingapp into Vaibhav
+
+Conflicts:
+	.idea/compiler.xml
+	.idea/encodings.xml
+	.idea/gradle.xml
+	.idea/misc.xml
+	.idea/modules.xml
+	.idea/vcs.xml
+	ShoppingApp.iml
+	SlidingMenu/SlidingMenu.iml
+	app/app.iml
+	app/build.gradle
+	app/src/main/res/layout/login.xml
+	libraryFragmentTransactionExtended/libraryFragmentTransactionExtended.iml
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch Vaibhav
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   .idea/compiler.xml
+#	modified:   .idea/encodings.xml
+#	modified:   .idea/gradle.xml
+#	modified:   .idea/misc.xml
+#	modified:   .idea/modules.xml
+#	new file:   .idea/runConfigurations.xml
+#	modified:   .idea/vcs.xml
+#	new file:   README.md
+#	modified:   ShoppingApp.iml
+#	modified:   SlidingMenu/SlidingMenu.iml
+#	modified:   app/app.iml
+#	modified:   app/build.gradle
+#	modified:   app/src/main/res/layout/login.xml
+#	modified:   libraryFragmentTransactionExtended/libraryFragmentTransactionExtended.iml
+#
+# Changes not staged for commit:
+#	modified:   app/app.iml
+#
+

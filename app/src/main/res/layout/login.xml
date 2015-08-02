@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+=======
+
+>>>>>>> f051c66f5b9d468d24c860cd25c6e0a336a0e004
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
