@@ -22,5 +22,8 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile project(':SlidingMenu')
+<<<<<<< HEAD
+=======
     compile files('C:/Users/Tamoghna/AndroidStudioProjects/Smartpages/libs/httpmime-4.3.jar')
+>>>>>>> f051c66f5b9d468d24c860cd25c6e0a336a0e004
 }
